@@ -778,7 +778,7 @@ a {
 
 .Home_gitIcon__L23x5 {
 	display: block;
-	background-image: url("/root/04-zkapp-browser-ui/ui/images/git.png");
+	background-image: url("https://github.com/avatara01/04-zkapp-browser-ui/tree/main/ui/images/git.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 90px;
