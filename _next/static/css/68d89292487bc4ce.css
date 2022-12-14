@@ -346,8 +346,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/succes.43799039.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 80px;
-	height: 149px;
+	width: 180px;
+	height: 336px;
 	position: absolute;
 	left: 370px;
 	top: 120px;
@@ -694,6 +694,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/send.9a067b87.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+ 	align-items: center;
+	justify-content: center;
 	width: 700px;
 	height: 500px;
 	position: absolute;
