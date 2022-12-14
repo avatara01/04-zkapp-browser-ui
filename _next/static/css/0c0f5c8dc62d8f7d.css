@@ -202,10 +202,10 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/WelcomeBanner.6ecdaea4.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 420px;
+	width: 427px;
 	height: 42px;
 	position: absolute;
-	left: 223px;
+	left: 240px;
 	top: 210px;
 }
 
@@ -347,7 +347,7 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 80px;
-	height: 1550px;
+	height: 155px;
 	position: absolute;
 	left: 400px;
 	top: 1350px;
@@ -694,8 +694,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/send.9a067b87.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 400px;
-	height: 330px;
+	width: 700px;
+	height: 500px;
 	position: absolute;
 	left: 250px;
 	top: 100px;
