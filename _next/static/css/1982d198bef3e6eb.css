@@ -203,9 +203,9 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 420px;
-	height: 142px;
+	height: 42px;
 	position: absolute;
-	left: 250px;
+	left: 200px;
 	top: 150px;
 }
 
@@ -217,7 +217,7 @@ a {
 	width: 270px;
 	height: 80px;
 	position: absolute;
-	left: 325px;
+	left: 300px;
 	top: 307px;
 }
 
